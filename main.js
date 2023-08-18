@@ -57,7 +57,7 @@ const app = {
         },
 	    {
             name: 'Ngày Mai Em Đi',
-            singer: 'Soobin Hoàng Sơn - Lê Hiế',
+            singer: 'Soobin Hoàng Sơn - Lê HiếU',
             path: './assets/musics/song_4.mp3',
             image: './assets/images/image_4.jpg',
         },
