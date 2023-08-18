@@ -1,0 +1,62 @@
+songs: [
+        {
+            name: 'Phố Đã Lên Đèn',
+            singer: 'MASEW - Huyệt Tâm Môn',
+            path: './assets/musics/song_1.mp3',
+            image: './assets/images/image_1.jpg',
+        },
+	{
+            name: 'Cứ Chill Thôi',
+            singer: 'Chilies - Suni Hạ Linh',
+            path: './assets/musics/song_2.mp3',
+            image: './assets/images/image_2.jpg',
+        },
+	{
+            name: 'Ta Còn Đây',
+            singer: 'JustaTee - Rhymastic - SlimV'
+            path: './assets/musics/song_3.mp3',
+            image: './assets/images/image_3.jpg',
+        },
+	{
+            name: 'Ngày Mai Em Đi',
+            singer: 'Soobin Hoàng Sơn - Lê Hiế',
+            path: './assets/musics/song_4.mp3',
+            image: './assets/images/image_4.jpg',
+        },
+	{
+            name: 'Nấu Cho Em Ăn',
+            singer: 'Đen Vâu - PiaLinh',
+            path: './assets/musics/song_5.mp3',
+            image: './assets/images/image_5.jpg',
+        },
+	{
+            name: 'Người Gieo Mầm Xanh',
+            singer: 'Hoàng Dũng - Hứa Kim Tuyền',
+            path: './assets/musics/song_6.mp3',
+            image: './assets/images/image_6.jpg',
+        },
+	{
+            name: 'Tìm Được Nhau Khó Thế Nào',
+            singer: 'Anh Tú',
+            path: './assets/musics/song_7.mp3',
+            image: './assets/images/image_7.jpg',
+        },
+	{
+            name: 'Ngày đầu tiên',
+            singer: 'Đức Phúc',
+            path: './assets/musics/song_8.mp3',
+            image: './assets/images/image_8.jpg',
+        },
+	{
+            name: 'Ta Còn Yêu Nhau',
+            singer: 'Đức Phúc',
+            path: './assets/musics/song_9.mp3',
+            image: './assets/images/image_9.jpg',
+        },
+	{
+            name: 'Ánh Nắng Của Anh',
+            singer: 'Đức Phúc',
+            path: './assets/musics/song_10.mp3',
+            image: './assets/images/image_10.jpg',
+        }
+]
